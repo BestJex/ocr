@@ -1,6 +1,9 @@
 # OCR
 
 **\*\*\*\*\* 一个基于CTPN+CRNN的完整OCR项目\*\*\*\*\***
+
+# 本人以Tensorflow2.2.0为基础进行重构，不再对此项目进行维护。新项目：https://github.com/lvjianjin/crnn_by_tensorflow2.2.0
+
 ```
 项目详细介绍可参见：https://www.jianshu.com/p/713ffa82b650
 凡对本项目有任何疑惑可加QQ群交流：1081332609
